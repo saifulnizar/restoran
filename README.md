@@ -31,10 +31,7 @@ php artisan serve
 ```
 
 ## Rancangan Database
-   <br />
-   <br />
-   <embed src="dbdesign.pdf" alt="" width="100%" type="application/pdf"/>
-   <br />
+   - ada di root project dbdesign.pdf
 
 ## Api Documentation
 
