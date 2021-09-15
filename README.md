@@ -37,7 +37,9 @@ php artisan serve
 
 ```
 apiMakanan.json di root project
+import di postman
 
+example
 localhost:8000/api/kategoriMakanan  // method get 
 
 response
