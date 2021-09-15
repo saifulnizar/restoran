@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "eaace2c9-9119-4ca9-91bf-c9d63bd28b96",
+		"name": "restoran",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8000/api/kategoriMakanan",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/api/kategoriMakanan",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"kategoriMakanan"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
